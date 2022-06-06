@@ -15,12 +15,14 @@ h2{
 span{
     font-style: italic;
     padding: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 p{
     font-style: italic;
 }
 .btn{
-    margin: 1rem;
+    margin: 1%;
 }
 
 .comment{
